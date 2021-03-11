@@ -17,9 +17,11 @@ Historical data (to 14 December 2020) on the daily number of new reported COVID-
 <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
          date_data.csv">https://www.ecdc.europa.eu</a></li>
 
-<li><a href="https://ourworldindata.org/covid-cases?country=IND~USA~GBR~CAN~DEU~FRA">https://ourworldindata.org</a></li></ol>
+<li><h3>Our World In Data</h3>
+  Explore the global data on confirmed COVID-19 cases<br>
+  <a href="https://ourworldindata.org/covid-cases?country=IND~USA~GBR~CAN~DEU~FRA">https://ourworldindata.org</a></li></ol>
 
-Types of wrangling/data cleansing:
-1. Loaded all files
-2. Cleansed files: eliminated irrelevant data, renamed columns, dropped null values
-
+<h2>Types of wrangling/data cleansing:</h2>
+<ol><li>Loaded all files</li>
+  <li>Cleansed files: eliminated irrelevant data, renamed columns, dropped null values</li>
+</ol>
