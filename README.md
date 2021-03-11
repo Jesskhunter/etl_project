@@ -24,6 +24,7 @@ Historical data (to 14 December 2020) on the daily number of new reported COVID-
   </ul></li>
 
 <li><h3>Our World In Data</h3>
+  <h4>Our World in Data relies on data from Johns Hopkins University</h4>
 Global data on confirmed COVID-19 cases<br>
   <a href="https://ourworldindata.org/covid-cases?country=IND~USA~GBR~CAN~DEU~FRA">https://ourworldindata.org</a>
   <ul><li>us-county-data.csv</li>
