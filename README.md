@@ -18,7 +18,7 @@ Historical data (to 14 December 2020) on the daily number of new reported COVID-
          date_data.csv">https://www.ecdc.europa.eu</a></li>
 
 <li><h3>Our World In Data</h3>
-  Explore the global data on confirmed COVID-19 cases<br>
+Global data on confirmed COVID-19 cases<br>
   <a href="https://ourworldindata.org/covid-cases?country=IND~USA~GBR~CAN~DEU~FRA">https://ourworldindata.org</a></li></ol>
 
 <h2>Types of wrangling/data cleansing:</h2>
