@@ -17,9 +17,9 @@ Global data on confirmed COVID-19 cases<br>
  <li>Created three tables from file: Based on Continent, Country, and ISO code</li>
 <li>Used .unique() to obtain unique values for each</li>
 <li>Used .reset_index() to create index then renamed to act as IDs</li>
-<li>These IDs were used as primary keys./li>
+<li>These IDs were used as primary keys.</li>
   
 <h2>Load:</h2>
 
-<li>Loaded data into SQL Postgre</li>
+<li>Loaded data into PostgreSQL</li>
 
