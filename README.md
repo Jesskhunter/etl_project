@@ -17,6 +17,7 @@ Global data on confirmed COVID-19 cases<br>
 
 <li>Created three tables from file: Based on Continent, Country, and ISO code</li>
 <li>Used .dropna() to remove null values for each</li>
+<li>Used .fillna() to replace null values for 0</li>
 <li>Used .unique() to obtain unique values for each</li>
 <li>Used .reset_index() to create index then renamed to act as IDs</li>
 <li>These IDs were used as primary keys.</li>
