@@ -22,7 +22,7 @@ Global data on confirmed COVID-19 cases<br>
 <li>These IDs were used as primary keys.</li>
 <li>Once we created the tables, we used pd.merge() to join the tables with the original data to include the new ids.</li>
 <li>Excess columns were removed as they were included in the new tables.</li>
-<li>These IDs act as foreign keys to the main data, where they act as primary keys.
+<li>These IDs act as foreign keys in the main data, where they act as primary keys in the index tables.</li>
   
 <h2>Load:</h2>
 
